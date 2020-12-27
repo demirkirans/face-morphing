@@ -8,7 +8,7 @@ A tool for face morphing.
 3. Morph the face using these triangles.
 
 
-![alt text](https://github.com/demirkirans/face-morphing/blob/main/results/erdkilic.gif?raw=true)
+<img src="https://github.com/demirkirans/face-morphing/blob/main/results/erdkilic.gif?raw=true" width="400" height="400">
 
 
 
