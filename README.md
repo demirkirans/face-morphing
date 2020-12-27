@@ -7,8 +7,8 @@ A tool for face morphing.
 2. Then we do Delaunay Triangulation using points found in previous step.
 3. Morph the face using these triangles.
 
-![alt text][example]
-[example]: https://github.com/demirkirans/face-morphing/blob/main/results/erdkilic.gif
+
+![alt text](https://github.com/demirkirans/face-morphing/blob/main/results/erdkilic.gif?raw=true)
 
 
 
