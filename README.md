@@ -8,7 +8,7 @@ A tool for face morphing.
 3. Morph the face using these triangles.
 
 ![alt text][example]
-[example]: https://github.com/demirkirans/face-morphing/blob/master/results/erdkilic.gif
+[example]: https://github.com/demirkirans/face-morphing/blob/main/results/erdkilic.gif
 
 
 
@@ -27,11 +27,11 @@ $ git clone https://github.com/demirkirans/face-morphing
 Specify the paths of source and destination images
 
 ```python
-python src/morpher.py --src=<source image path> --dest=<destination image path>
+python src/morpher.py --src=<source_image_path> --dest=<destination_image_path>
 ```
 
 You can also enter fps for output video. 
 
 ```python
-python src/morpher.py --src=<source image path> --dest=<destination image path> --fps=20
+python src/morpher.py --src=<source_image_path> --dest=<destination_image_path> --fps=20
 ```
