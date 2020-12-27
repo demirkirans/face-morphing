@@ -1,0 +1,5 @@
+opencv = 4.5.0
+numpy 
+dlib
+moviepy
+docopt
